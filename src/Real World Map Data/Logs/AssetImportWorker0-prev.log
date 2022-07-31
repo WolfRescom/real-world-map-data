@@ -1,0 +1,173 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.1826; Version 2009; 64bit' Language: 'en' Physical Memory: 16316 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/at845/Desktop/Unity Projects/real-world-map-data/src/Real World Map Data
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60437
+Successfully changed project path to: C:/Users/at845/Desktop/Unity Projects/real-world-map-data/src/Real World Map Data
+C:/Users/at845/Desktop/Unity Projects/real-world-map-data/src/Real World Map Data
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 53.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/at845/Desktop/Unity Projects/real-world-map-data/src/Real World Map Data/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   
+    VRAM:     2988 MB
+    Driver:   27.21.14.6677
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56148
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002915 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.924 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003319 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.056 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1424 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.7 MB.
+System memory in use after: 65.8 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 1854.
+Total: 2.204800 ms (FindLiveObjects: 0.197300 ms CreateObjectMapping: 0.054100 ms MarkObjects: 1.866700 ms  DeleteObjects: 0.085300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Editor/OpenMapImporter/Serialization/OsmWay.cs
+  artifactKey: Guid(a68e102ab9702d2408da24d250413c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Editor/OpenMapImporter/Serialization/OsmWay.cs using Guid(a68e102ab9702d2408da24d250413c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcaa4aa63814262af4bd8c25a19514f0') in 0.025271 seconds
+  Import took 0.028378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Scripts/Editor/OpenMapImporter/Serialization/OsmNode.cs
+  artifactKey: Guid(e8c9eef0b7b042b4193e54e49a63ced2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Editor/OpenMapImporter/Serialization/OsmNode.cs using Guid(e8c9eef0b7b042b4193e54e49a63ced2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cf5ba19d995ea642935440ef56436d9') in 0.003435 seconds
+  Import took 0.005679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.624346 seconds.
+  path: Assets/Scripts/Editor/OpenMapImporter/MercatorProjection.cs
+  artifactKey: Guid(dc10c7e6cf1a9d44a862af57d6b97d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Editor/OpenMapImporter/MercatorProjection.cs using Guid(dc10c7e6cf1a9d44a862af57d6b97d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4651dd7b9e5a4765f3b46b4a5e692298') in 0.003593 seconds
+  Import took 0.006082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.008666 seconds.
+  path: Assets/Scripts/Editor/OpenMapImporter/ImportMapDataEditorWindow.cs
+  artifactKey: Guid(f3d479d839e4fea479882ed4c16a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Editor/OpenMapImporter/ImportMapDataEditorWindow.cs using Guid(f3d479d839e4fea479882ed4c16a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d9c93076d620342d2831160f84ebc7') in 0.003512 seconds
+  Import took 0.006008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007145 seconds.
+  path: Assets/Scripts/Editor/OpenMapImporter/ImportMapDataEditorWindow.cs
+  artifactKey: Guid(f3d479d839e4fea479882ed4c16a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Editor/OpenMapImporter/ImportMapDataEditorWindow.cs using Guid(f3d479d839e4fea479882ed4c16a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d9c93076d620342d2831160f84ebc7') in 0.003472 seconds
+  Import took 0.005801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.824734 seconds.
+  path: Assets/Scripts/Editor/OpenMapImporter/ImportMapDataEditorWindow.cs
+  artifactKey: Guid(f3d479d839e4fea479882ed4c16a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Editor/OpenMapImporter/ImportMapDataEditorWindow.cs using Guid(f3d479d839e4fea479882ed4c16a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a38942e26d4651a1989de59c1df1c81') in 0.003039 seconds
+  Import took 0.005596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004296 seconds.
+  path: Assets/Scripts/Editor/OpenMapImporter/ImportMapDataEditorWindow.cs
+  artifactKey: Guid(f3d479d839e4fea479882ed4c16a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Editor/OpenMapImporter/ImportMapDataEditorWindow.cs using Guid(f3d479d839e4fea479882ed4c16a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a38942e26d4651a1989de59c1df1c81') in 0.003744 seconds
+  Import took 0.006304 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003516 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.996 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1418 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.4 MB.
+System memory in use after: 65.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1857.
+Total: 2.078700 ms (FindLiveObjects: 0.202400 ms CreateObjectMapping: 0.052500 ms MarkObjects: 1.791700 ms  DeleteObjects: 0.031300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 102.174058 seconds.
+  path: Assets/Scripts/Editor/OpenMapImporter/ImportMapDataEditorWindow.cs
+  artifactKey: Guid(f3d479d839e4fea479882ed4c16a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Editor/OpenMapImporter/ImportMapDataEditorWindow.cs using Guid(f3d479d839e4fea479882ed4c16a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b622a09b0ec3ff4e594b8803a51758e3') in 0.006296 seconds
+  Import took 0.008935 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003263 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.006 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1418 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.4 MB.
+System memory in use after: 65.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1860.
+Total: 2.039600 ms (FindLiveObjects: 0.186600 ms CreateObjectMapping: 0.043300 ms MarkObjects: 1.784500 ms  DeleteObjects: 0.024100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

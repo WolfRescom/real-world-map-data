@@ -28,7 +28,7 @@ public class ImportMapDataEditorWindow : EditorWindow
 {
     private Material _roadMaterial;
     private Material _buildingMaterial;
-    private string _mapFilePath = "None (Choose OpenMap File)";
+    private string _mapFilePath = "C:/Users/at845/Desktop/Unity Projects/real-world-map-data/src/Real World Map Data/Assets/Resources/";
     private string _progressText;
     private float _progress;
     private bool _disableUI;

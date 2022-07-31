@@ -39,7 +39,7 @@ internal sealed class MapReader
     /// <summary>
     /// Load the OpenMap data resource file.
     /// </summary>
-    /// <param name="resourceFile">Path to the resource file. The file must exist.</param>
+    /// <param name="C:/Users/at845/Desktop/Unity Projects/real-world-map-data/src/Real World Map Data/Assets/Resources/map.txt">Path to the resource file. The file must exist.</param>
 	public void Read(string resourceFile)
     {
         nodes = new Dictionary<ulong, OsmNode>();
